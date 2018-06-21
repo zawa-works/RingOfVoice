@@ -8,5 +8,5 @@
 4. 停止した状態でsキーを押すとobjファイルとして保存される
 
 # 参考資料
-http://r-dimension.xsrv.jp/classes_j/minim/
-https://n-e-r-v-o-u-s.com/tools/obj/
+1. http://r-dimension.xsrv.jp/classes_j/minim/
+2. https://n-e-r-v-o-u-s.com/tools/obj/
